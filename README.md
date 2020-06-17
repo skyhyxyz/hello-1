@@ -12,11 +12,9 @@ See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
 
 ## Create your own
 
-
 | You'll Need:                                 | ☟                                                 |
-|:---------------------------------------------|:--------------------------------------------------|
+| :------------------------------------------- | :------------------------------------------------ |
 | [GitHub](http://www.github.com/join) account | Basic [HTML](http://learn.shayhowe.com/html-css/) |
-
 
 ### First, fork this repository.
 
@@ -32,10 +30,9 @@ You can also give it any 'ol name and GitHub will host it using this pattern: `u
 
 1. From your fork's page on GitHub, click the index.html link, then on the next page click Edit.
 2. Make changes to the HTML so that the site reflects your name and bio.
-8. At the bottom of the site, click the Commit button to save your changes.
+3. At the bottom of the site, click the Commit button to save your changes.
 
 Now your site is live! Go check it out!
-
 
 ### Style
 
